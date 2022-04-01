@@ -79,11 +79,6 @@ app.post('/files', (req, res) => {
 
 })
 
-
-
-
-
-
 ///file code 
 // const file = reader.readFile('./test.xlsx')
 
@@ -113,7 +108,7 @@ app.post('/files', (req, res) => {
 // let r=false
 
 
-
+// manual entry
 
 app.post('/submit', (req, res) => {
 
